@@ -5,11 +5,11 @@ import { SectionIntro } from "@/components/section-intro";
 export const metadata: Metadata = { title: "Leadership" };
 
 const leaders = [
-  { role: "Chairman", name: "Asim Raza Ahmed", image: "/images/leadership/asim-raza.jpg", note: "Proposed founding office-bearer" },
-  { role: "Co-Chairman", name: "Mian Muhammad Usman", image: "/images/leadership/mian-muhammad-usman.jpg", note: "Proposed founding office-bearer" },
-  { role: "Vice Chairman", name: "Chaudhary Abdul Rauf", image: "/images/leadership/chaudhary-abdul-rauf.jpg", note: "Proposed founding office-bearer" },
-  { role: "Chairman Punjab", name: "Chaudhary Muhammad Asad", image: "/images/leadership/chaudhary-muhammad-asad.jpg", note: "Proposed provincial office-bearer" },
-  { role: "Secretary General", name: "Ahmed Jawad", image: "/images/leadership/ahmed-jawad.jpg", note: "Proposed founding office-bearer" },
+  { role: "Chairman", name: "Asim Raza Ahmed", image: "/images/leadership/Raza Ahmed.jpg", note: "Proposed founding office-bearer" },
+  { role: "Co-Chairman", name: "Mian Muhammad Usman", image: "/images/leadership/Mian-Muhammad-usman.jpg", note: "Proposed founding office-bearer" },
+  { role: "Vice Chairman", name: "Chaudhary Abdul Rauf", image: "/images/leadership/Chaudhary Abdul Rauf.jpg", note: "Proposed founding office-bearer" },
+  { role: "Chairman Punjab", name: "Chaudhary Muhammad Asad", image: "/images/leadership/Chaudhary Asad.jpg", note: "Proposed provincial office-bearer" },
+  { role: "Secretary General", name: "Ahmed Jawad", image: "/images/leadership/Ahmed-jawad.jpg", note: "Proposed founding office-bearer" },
   { role: "Senior Vice Chairman", name: "Khwaja Habib Ur Rehman", note: "Proposed founding office-bearer" },
 ];
 
