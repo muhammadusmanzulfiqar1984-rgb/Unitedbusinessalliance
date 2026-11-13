@@ -1,0 +1,1 @@
+export function SectionIntro({eyebrow,title,text}:{eyebrow:string;title:string;text?:string}){return <div className="max-w-2xl"><div className="eyebrow">{eyebrow}</div><div className="gold-rule mt-5"/><h2 className="section-title mt-6">{title}</h2>{text&&<p className="mt-5 text-[15px] leading-8 text-[#66736c]">{text}</p>}</div>}
